@@ -1,4 +1,4 @@
-PS C:\Users\PsProsen-Dev\desktop\openclaude> tree /F /A
+PS C:\Users\PsProsen-Dev\desktop\claude_code_source_code> tree /F /A
 Folder PATH listing
 Volume serial number is DCED-A311
 C:.
@@ -2499,4 +2499,4 @@ C:.
         \---voice
                 voiceModeEnabled.ts
 
-PS C:\Users\PsProsen-Dev\desktop\openclaude>
+PS C:\Users\PsProsen-Dev\claude_code_source_code>
